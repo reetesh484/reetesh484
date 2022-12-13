@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/reeteshtiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reeteshtiwari" height="30" width="40" /></a>
 <a href="https://instagram.com/being__a_l_i_v_e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="being__a_l_i_v_e_" height="30" width="40" /></a>
-<a href="https://hashnode.com/reeteshtiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="reeteshtiwari" height="30" width="40" /></a>
+<a href="https://reeteshtiwari.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="reeteshtiwari" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
